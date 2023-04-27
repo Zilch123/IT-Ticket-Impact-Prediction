@@ -11,6 +11,7 @@ Two Groups (Low+Medium) & High impact tickets
 ID - Incident identifier 
 Category ID - First-level description of the affected service
 Opened Time - Incident user opening date and time
+
 *Results:*
 - Precise Model: 
   - How many High impact tickets are retrieved of total High Impact tickets - 71% (Recall) 
@@ -18,11 +19,13 @@ Opened Time - Incident user opening date and time
 - Recall Model: Recall is more important here
   - How many High impact tickets are retrieved of total High Impact tickets - 89% (Recall) 
   - How many retrieved High impact tickets are True - 36% (Precision) 
-    Use of this approach: Save time to resolve High impact tickets.
+
+Use of this approach: Save time to resolve High impact tickets.
 
 
-Use-case: Auto-predict high impact tickets &
-                   notify IT team to verify it.
+Use-case: Auto-predict high impact tickets & notify IT team to verify it.
+
+
 *EDA Observations:*
 - 95% of tickets are medium priority.
 - Disproportionate Document knowledge
