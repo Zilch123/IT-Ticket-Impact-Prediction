@@ -1,10 +1,10 @@
 # IT-Ticket-Impact-Prediction
 *Predict ticket impact*
 
-Objective: Predict High Impact tickets to Prioritise. 
+*Objective: Predict High Impact tickets to Prioritise.* 
 Use-case: Auto-predict high impact tickets &
                    notify IT team to verify it.
-*Relevant observations:*
+*EDA Observations:*
 - 95% of tickets are medium priority.
 - Disproportionate Document knowledge
   - High Impact Tickets - No document knowledge 
